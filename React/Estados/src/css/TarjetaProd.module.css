@@ -1,6 +1,6 @@
 .tp{
-    margin:  1rem;
-    width: 20rem;
+    margin: 1rem;
+    width: 20rem; 
     padding: 1rem;
     text-align: center;
 }
@@ -8,10 +8,10 @@
 .e{
     color:green;
         font-weight: bold;
+
 }
 
 .a{
     color:red;
-        font-weight:bold;
+        font-weight: bold;
 }
-
