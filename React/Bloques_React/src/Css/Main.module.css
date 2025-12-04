@@ -2,7 +2,7 @@
 height: 400px;
 width: 700px;
 background-color: deeppink;
-display: inline-block; /**/
+display: inline-block;
 vertical-align: top;
 margin-top: 10px;
 }
